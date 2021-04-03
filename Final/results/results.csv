@@ -1,0 +1,3 @@
+Session size,Testing strategies,Max complete Sessions,Max users
+5,browser,20,100 (104)
+5,kms-webrtc,24,120 (122)
