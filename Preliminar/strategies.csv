@@ -1,0 +1,17 @@
+strategy	participants	start	finish
+kms-webrtc	2	Sep 30, 2021 @ 17:49:00.000	Sep 30, 2021 @ 18:01:53.902
+kms-webrtc	3	Sep 30, 2021 @ 18:30:00.000	Sep 30, 2021 @ 18:40:50.021
+kms-webrtc	5	Sep 30, 2021 @ 18:18:08.521	Sep 30, 2021 @ 18:25:55.660
+kms-webrtc	8	Sep 30, 2021 @ 18:08:41.726	Sep 30, 2021 @ 18:12:44.557
+SeleniumWithoutRecording	2	Oct 1, 2021 @ 10:34:00.852	Oct 1, 2021 @ 10:38:52.268
+SeleniumWithoutRecording	3	Sep 30, 2021 @ 18:42:26.256	Sep 30, 2021 @ 18:46:31.859
+SeleniumWithoutRecording	5	Sep 30, 2021 @ 18:50:13.947	Sep 30, 2021 @ 18:54:42.000
+SeleniumWithoutRecording	8	Oct 1, 2021 @ 10:28:04.438	Oct 1, 2021 @ 10:33:46.483
+SeleniumWithRecording	2	Oct 5, 2021 @ 16:04:30.581	Oct 5, 2021 @ 16:08:39.832
+SeleniumWithRecording	3	Oct 5, 2021 @ 16:08:54.612	Oct 5, 2021 @ 16:13:45.167
+SeleniumWithRecording	5	Oct 5, 2021 @ 16:13:59.351	Oct 5, 2021 @ 16:21:47.837
+SeleniumWithRecording	8	Oct 5, 2021 @ 16:22:00.363	Oct 5, 2021 @ 16:29:27.166
+headless browsers	2	Oct 5, 2021 @ 15:59:29.508	Oct 5, 2021 @ 16:03:30.775
+headless browsers	3	Oct 5, 2021 @ 15:45:43.611	Oct 5, 2021 @ 15:49:42.435
+headless browsers	5	Oct 5, 2021 @ 15:50:07.607	Oct 5, 2021 @ 15:54:42.246
+headless browsers	8	Oct 5, 2021 @ 15:55:02.004	Oct 5, 2021 @ 15:59:21.755

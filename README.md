@@ -20,10 +20,13 @@ We use official Docker images, for more info, see:
 - https://github.com/jupyter/docker-stacks
 - https://jupyter-docker-stacks.readthedocs.io/
 
+Based on image `jupyter/scipy-notebook`, we just install ElasticSearch libraries to work in Python
+
 ```
 git clone https://github.com/codeurjc/ChartGenerator_WebRTC.git
 cd ChartGenerator_WebRTC
-docker run --rm -v "$PWD":/home/jovyan/work -p 8888:8888 jupyter/scipy-notebook
+docker build -t jupyter/scipy-notebook:elasticsearch .
+docker run --rm -v "$PWD":/home/jovyan/work -p 8888:8888 --env-file $PWD/.env jupyter/scipy-notebook:elasticsearch 
 ```
 
 Open the link provided in the logs to see JupyterNotebook:
